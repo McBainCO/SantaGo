@@ -1,4 +1,4 @@
-/* --------------------- 
+/* ---------------------
 BASIC SETTINGS
 --------------------- */
 body {font-family: 'Raleway', sans-serif;}
@@ -28,7 +28,7 @@ p {
     color: #b2b2b2;
 }
 
-/* --------------------- 
+/* ---------------------
 BUTTONS
 --------------------- */
 .btn:focus,
@@ -90,7 +90,7 @@ input:focus {
     border: 2.5px solid #f53f2c;
 }
 
-/* --------------------- 
+/* ---------------------
 INPUT FIELDS
 --------------------- */
 input {
@@ -109,7 +109,7 @@ input:focus {
     border: 2px solid #f53f2c;
 }
 
-/* --------------------- 
+/* ---------------------
 SECTION HEADINGS
 --------------------- */
 .sectionhead {padding: 0 150px;}
@@ -125,14 +125,14 @@ SECTION HEADINGS
     border-bottom: 4px solid #eeeeee;
 }
 
-/* --------------------- 
+/* ---------------------
 HERO SECTION
 --------------------- */
 #hero {
     text-align: center;
     height: 560px;
     color: #fff;
-    background: url(../img/bg.jpg) fixed;
+    background: url(../img/map.jpg) fixed;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -160,7 +160,7 @@ HERO SECTION
     margin-top: -390px;
 }
 
-/* --------------------- 
+/* ---------------------
 OVERVIEW SECTION
 --------------------- */
 #overview {
@@ -175,7 +175,7 @@ OVERVIEW SECTION
 
 #overview img {height: 120px;}
 
-/* --------------------- 
+/* ---------------------
 CALL-TO-ACTION SECTION
 --------------------- */
 .calltoaction {
@@ -193,7 +193,7 @@ CALL-TO-ACTION SECTION
     margin-bottom: -15px;
 }
 
-/* --------------------- 
+/* ---------------------
 PRODUCTS SECTION
 --------------------- */
 #products {
@@ -260,7 +260,7 @@ PRODUCTS SECTION
 .otheroffer {background: #668bde;}
 .moreitems .col-md-4 {padding-left: 0;}
 
-/* --------------------- 
+/* ---------------------
 SUBSCRIBE SECTION
 --------------------- */
 #subscribe {
@@ -278,7 +278,7 @@ SUBSCRIBE SECTION
 
 #subscribe .container {padding: 65px 0;}
 
-/* --------------------- 
+/* ---------------------
 FOOTER SECTION
 --------------------- */
 footer {padding: 75px 0 30px 0;}
@@ -294,7 +294,7 @@ footer hr {
     border-bottom: 4px solid #eeeeee;
 }
 
-/* --------------------- 
+/* ---------------------
 OVERLAY PRESET
 --------------------- */
 .redoverlay {
@@ -314,7 +314,7 @@ OVERLAY PRESET
     position: relative;
 }
 
-/* --------------------- 
+/* ---------------------
 SOCIAL ICONS
 --------------------- */
 .sticky-container {
